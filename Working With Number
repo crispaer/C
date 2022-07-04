@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("%f", ceil(36.356));
+    printf("%f", sqrt(36));
+    printf("%f", pow(4, 3));
+    printf("%f", 5 / 4.0);
+    
+    return 0;
+}
